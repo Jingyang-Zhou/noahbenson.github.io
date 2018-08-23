@@ -1,4 +1,4 @@
 ---
 layout: post
-title: Temporal dyanmics on the human visual cortex
+title: Temporal dynamics on the human visual cortex
 ---
