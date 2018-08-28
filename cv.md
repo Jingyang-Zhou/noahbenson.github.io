@@ -77,7 +77,7 @@ permalink: /cv/
 
 ### Service
 
-* **2016-present** Organizer of Vision Journal Club at NYU 
+* **2016-present** Organizer of [Vision Journal Club at NYU](https://nyuvisionjournalclub.github.io/) 
 
 ### Professional Organizations
 
