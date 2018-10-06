@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I study how visual information is processed at different stages in the brain. For more information about my research, see my
+I work in visual neuroscience with a computation and a low level bias. For more information about my research, see my
 [Research]({{site.baseurl}}/research/) page or my [Curriculum
 Vitae]({{site.baseurl}}/cv/).
 
