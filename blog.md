@@ -1,6 +1,6 @@
 ---
 layout: page
-title: blog
+title: 
 permalink: /blog/
 ---
 * Try to understand some science.

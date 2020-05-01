@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Book Reviews
-permalink: /bookReviews/
+permalink: /bookreview/
 ---
 
 Here is the first book review.
