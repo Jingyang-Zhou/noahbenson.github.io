@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Thank you for visiting my site. I work in visual neuroscience at NYU, and I have more than just a computational interest. 
+I work in visual neuroscience at NYU, and I have more than just a computational interest. 
 
 * For more information about my research, see my [Research]({{site.baseurl}}/research/) page or my [CV]({{site.baseurl}}/docs/ZhouCV_2020April.pdf). 
 
