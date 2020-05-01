@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Blog
 permalink: /blog/
 ---
 * [Try to understand some science]({{site.baseurl}}/blogs/understandscience).
