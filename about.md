@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 I work in visual neuroscience with a computation and a low level bias. For more information about my research, see my
-[Research]({{site.baseurl}}/research/) page or my [Curriculum
-Vitae]({{site.baseurl}}/cv/).
+[Research]({{site.baseurl}}/research/) page or my [CV] (/docs/ZhouCV_2020April).
+
 
 ### Contact me
 
