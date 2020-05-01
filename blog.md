@@ -3,8 +3,9 @@ layout: page
 title: blog
 permalink: /blog/
 ---
-
-Here is the first post.
+* Try to understand some science.
+* Try to understand some maths.
+* [Book review]({{site.baseurl}}/_blog/bookreview).
 
 
 
