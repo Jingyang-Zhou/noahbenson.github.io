@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /
+permalink: /about
 ---
 
 I work as a postdoc in visual neuroscience at NYU, in Eero Simoncelli's [Lab for Computational Vision](https://www.cns.nyu.edu/~lcv/). I have a computational and theoretical interest of course, but in general, I try to understand anything I encounter, and figured this is what living a fulfilling life means to me.
