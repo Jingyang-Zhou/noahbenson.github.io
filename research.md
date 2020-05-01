@@ -11,6 +11,6 @@ We provide a simple and feed-forward model of neuronal dynamics that incorporate
 ### [Compressive temporal summation in human visual cortex](https://www.jneurosci.org/content/jneuro/38/3/691.full.pdf) ### 
 
 Using fMRI, we measured and modeled neuronal populations' temporal response in a collection of visually responses brain areas.
-![Illustration]({{site.baseurl}}/images/research/TRF_figure.jpg)
+![Illustration]({{site.baseurl}}/images/research/TRF_figure2.jpg)
 <sub>Zhou J, Benson NC, Kay KN, and Winawer J. *J. Neurosci.* 2018. 38(3):691-709.</sub>
 
