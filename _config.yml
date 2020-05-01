@@ -81,6 +81,17 @@ plugins:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-seo-tag
 
+  # _config.yml
+mini_magick:
+  #thumbnail:
+  #  source: img/photos/original
+  #  destination: i/photos/thumbnail
+  #  resize: "100x100"
+  medium:
+    source: /images/
+    destination: /images/medium
+    resize: "600x400"
+
 # Exclude these files from your production _site
 exclude:
   - Gemfile
