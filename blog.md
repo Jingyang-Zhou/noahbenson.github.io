@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Software
+title: blog
 permalink: /blog/
 ---
 
