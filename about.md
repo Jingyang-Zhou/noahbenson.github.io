@@ -8,7 +8,7 @@ I work as a postdoc in visual neuroscience at NYU, in Eero Simoncelli's [Lab for
 
 * For more information about my research, see [Research]({{site.baseurl}}/research/) page or my [CV]({{site.baseurl}}/docs/ZhouCV_2020April.pdf). 
 
-* [Software]({{site.baseurl}}/software/) consists of a bunch of computational tools that I built that helped my own research. The hope is that they may serve people with similar needs. 
+* [Software]({{site.baseurl}}/software/) consists of computational tools that I built that helped my research. The hope is that they can serve people with similar needs. 
 
 * My blog posts on various scientific topics are [here]({{site.baseurl}}/blog/).
 
